@@ -12,11 +12,11 @@ Frontend:
 Backend:
     >Node.js.
 
-Bases de datos:
+Database:
     >SQL & NoSQL for data storage.
     >GraphQL for efficiently managing API calls and data fetching.
 
-Autenticación:
+Authentication:
     >Auth0.
     >JWT for data serialization and deserialization.
 
@@ -24,10 +24,10 @@ Testing:
     >Cypress for frontend automated testing.
     >Pending backend testing
 
-Optimización:
+Optimization:
     >SEO & responsive design for improving visibility and user experience.
 
-Internacionalización:
+Internacionalization:
     >Enlgish and Spanish language pack.
 
 CI/CD:
@@ -36,10 +36,10 @@ CI/CD:
 Logging:
     >Winston (still on review)
 
-Monitoreo:
+Monitoring:
     >Pending
 
-Otros elementos:
+Other:
     >Additional cron job sripting for creating continuous commits on my github profile.
     >Project dockerization for better and easier container deployment.
     >Nginx as a reverse proxy
