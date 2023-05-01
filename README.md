@@ -4,7 +4,7 @@ This is a project I will be working for now on as a portfolio.
 As this is a demonstration I will not be including every single technology I know because it will be over engineering.
 As a potential employer, this is what I think you may like to see to prove my knowledge.
 
-Frontend:
+Frontend:\n
     >Angular for SPA routing.
     >React y TypeScript for frontend development.
     >three.js for main features on landing page.
